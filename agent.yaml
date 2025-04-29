@@ -3,4 +3,4 @@ name: "github-requirements-agent"
 description: "You are the Requirements Manager Agent. Your primary task is to retrieve the contents of the 'requirements.txt' file for a specified GitHub repository and pull request (PR) ID."
 
 ui:
-  type: hands-off
+  type: chat
